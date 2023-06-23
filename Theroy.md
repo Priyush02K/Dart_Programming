@@ -10,11 +10,11 @@ Data Type
 
 ![image](https://github.com/Priyush02K/Dart_Programming/assets/124695270/88530a38-bb7d-42f2-8f44-b54a5f32926f)
 
-Operators
+Operators <br>
 Dart language supports all operators, as you are familiar with other programming languages such as C, Kotlin, and Swift. The operator's name is listed below:
 
-1Arithmetic
-2Equality
-3Increment and Decrement
-4Logical
-5Comparison
+1. Arithmetic
+2. Equality
+3. Increment and Decrement
+4. Logical
+5. Comparison
